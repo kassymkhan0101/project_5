@@ -1,0 +1,3 @@
+Pick a stock (or several stocks) and download its (their) historical prices from finance.yahoo.com.
+Apply the approaches which we discussed in class to predict the prices, measure MAEs.
+Report your work in a PDF file and submit it
